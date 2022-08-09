@@ -5,7 +5,7 @@
     'isidentifier', 'encode’  মেথডের ব্যবহার । 
 3. 'isalnum’,'isalpha',,'isascii’, 'isprintable',
     'isnumeric','isdecimal','isdigit' এর ব্যবহার 
-4. 'count’ 
+4. 'count’ ,
 5. 'endswith’, 'startswith', 'index’ 
     'rindex’ এর ব্যবহার 
 6. 'rfind’, 'find’, 'replace’, 
